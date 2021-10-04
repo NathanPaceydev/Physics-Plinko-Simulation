@@ -2,5 +2,7 @@
 A practical physics approach to creating a Plinko simulation in Jupyter Notebook. Complete with varying drag coefficients, increased drop velocity and positional input. 
 
 
-https://user-images.githubusercontent.com/64051575/134821781-4ddf522c-9d35-457b-8193-d1616a99c3c2.mp4
+
+
+https://user-images.githubusercontent.com/64051575/135786915-05d65761-c55c-4141-92c3-fae86e15b9c5.mp4
 
